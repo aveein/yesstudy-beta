@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Yes Study USA - About Us";
 $metaKeywords = "Study abroad consultancy, Australia, USA, Nepal";
-$metaDescription = "About Yes Study USA - Your trusted education pathway from Nepal since 2014";
+$metaDescription = "About Yes Study USA - Your trusted education pathway from Nepal since 2016";
 $activePage = "about";
 include 'includes/header.php';
 ?>
@@ -25,8 +25,8 @@ include 'includes/header.php';
         <div class="row g-0">
             <div class="col-lg-6 py-6 px-5">
                 <h1 class="display-5 mb-4">Welcome To <span class="text-primary">YES STUDY</span></h1>
-                <h4 class="text-primary mb-4">Your Global Education Partner Since 2014</h4>
-                <p class="mb-4">YES STUDY began in Kathmandu in 2014 with one mission — to make international education transparent and achievable for Nepali students. Initially registered as "Encore Educational Consultancy" under the Ministry of Education, it was officially renamed in 2016 as "Yes Study Australia". Our Education Counsellors are TITI certified and verified by the Education Counselling and Verification Centre. Today, offices operate across Nepal, Australia, and the USA, serving 1000+ students placed in leading universities.</p>
+                <h4 class="text-primary mb-4">Your Global Education Partner Since 2016</h4>
+                <p class="mb-4">YES STUDY began in Kathmandu in 2016 with one mission — to make international education transparent and achievable for Nepali students. Initially registered as "Encore Educational Consultancy" under the Ministry of Education, it was officially renamed in 2016 as "Yes Study Australia". Our Education Counsellors are TITI certified and verified by the Education Counselling and Verification Centre. Today, offices operate across Nepal, Australia, and the USA, serving 1000+ students placed in leading universities.</p>
                 <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 rounded-pill">Get Free Consultation</a>
             </div>
            <div class="col-lg-6">

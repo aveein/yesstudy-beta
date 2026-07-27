@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Yes Study USA - Meet Our Founder";
 $metaKeywords = "Yes Study USA founder, Ambika Amatya, education consultancy Nepal";
-$metaDescription = "Meet Ambika Amatya, Founder of Yes Study USA - building transparent, licensed pathways to international education since 2014";
+$metaDescription = "Meet Ambika Amatya, Founder of Yes Study USA - building transparent, licensed pathways to international education since 2016";
 $activePage = "founder";
 include 'includes/header.php';
 ?>
@@ -37,7 +37,7 @@ include 'includes/header.php';
                 <h1 class="display-5 mb-4">A Mission Built on Trust &amp; Transparency</h1>
 
                 <div class="border-start border-4 border-primary ps-4 mb-4">
-                    <p class="fst-italic mb-0">"I founded YES STUDY in Nepal in 2014 with a singular mission: to make international education transparent and achievable for Nepali students."</p>
+                    <p class="fst-italic mb-0">"I founded YES STUDY in Nepal in 2016 with a singular mission: to make international education transparent and achievable for Nepali students."</p>
                 </div>
 
                 <p class="mb-4">Following our successful expansion and registration as Yes Study Australia in 2016, we officially established Yes Study USA in June 2026 to better serve our growing student community. Today, we operate seamlessly across Nepal, Australia, and the United States to support you at every milestone of your journey.</p>
@@ -101,7 +101,7 @@ include 'includes/header.php';
         <div class="row g-5">
             <div class="col-lg-4">
                 <div class="text-center h-100 p-4" style="border-top: 4px solid var(--primary);">
-                    <h1 class="display-4 text-primary mb-2">2014</h1>
+                    <h1 class="display-4 text-primary mb-2">2016</h1>
                     <h3 class="mb-3">Founded in Nepal</h3>
                     <p class="mb-0">YES STUDY opens in Kathmandu with a single mission: transparent, achievable international education for Nepali students.</p>
                 </div>

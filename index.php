@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Yes Study USA - Study in Australia & USA from Nepal";
 $metaKeywords = "Study abroad consultancy, Australia, USA, Nepal";
-$metaDescription = "Yes Study USA - Your trusted education pathway from Nepal to Australia and the USA since 2014";
+$metaDescription = "Yes Study USA - Your trusted education pathway from Nepal to Australia and the USA since 2016";
 $activePage = "home";
 include 'includes/header.php';
 ?>
@@ -16,7 +16,7 @@ include 'includes/header.php';
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase">International Education Consultancy</h5>
                             <h1 class="display-1 text-white mb-md-4">Get Placed. Globally.</h1>
-                            <p class="text-white mb-md-4">Your trusted education pathway from Nepal to Australia and the USA since 2014.</p>
+                            <p class="text-white mb-md-4">Your trusted education pathway from Nepal to Australia and the USA since 2016.</p>
                             <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Get Free Consultation</a>
                             <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Contact Us</a>
                         </div>
@@ -27,7 +27,7 @@ include 'includes/header.php';
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-white text-uppercase">Education Counsellors You Can Trust</h5>
-                            <h1 class="display-1 text-white mb-md-4">Your Global Education Partner Since 2014</h1>
+                            <h1 class="display-1 text-white mb-md-4">Your Global Education Partner Since 2016</h1>
                             <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Get Free Consultation</a>
                             <a href="contact.php" class="btn btn-secondary py-md-3 px-md-5 rounded-pill">Contact Us</a>
                         </div>
@@ -50,7 +50,7 @@ include 'includes/header.php';
 
     <!-- Trust Bar Start -->
     <div class="container-fluid bg-primary text-white text-center py-2">
-        <small><i class="fa fa-map-marker-alt me-2"></i>Registered in Nepal since 2014 &nbsp;|&nbsp; Kathmandu &nbsp;|&nbsp; Pokhara &nbsp;|&nbsp; Butwal &nbsp;|&nbsp; Itahari &nbsp;|&nbsp; Sydney &nbsp;|&nbsp; Dallas</small>
+        <small><i class="fa fa-map-marker-alt me-2"></i>Registered in Nepal since 2016 &nbsp;|&nbsp; Kathmandu &nbsp;|&nbsp; Pokhara &nbsp;|&nbsp; Butwal &nbsp;|&nbsp; Itahari &nbsp;|&nbsp; Sydney &nbsp;|&nbsp; Dallas</small>
     </div>
     <!-- Trust Bar End -->
 
@@ -59,8 +59,8 @@ include 'includes/header.php';
         <div class="row g-0">
             <div class="col-lg-6 py-6 px-5">
                 <h1 class="display-5 mb-4">Welcome To <span class="text-primary">YES STUDY</span></h1>
-                <h4 class="text-primary mb-4">Your Global Education Partner Since 2014</h4>
-                <p class="mb-4">YES STUDY began in Kathmandu in 2014 with one mission — to make international education transparent and achievable for Nepali students. Initially registered as "Encore Educational Consultancy", officially renamed in 2016 as "Yes Study Australia". Today, offices operate across Nepal, Australia, and the USA, serving over 1000+ students placed in leading universities.</p>
+                <h4 class="text-primary mb-4">Your Global Education Partner Since 2016</h4>
+                <p class="mb-4">YES STUDY began in Kathmandu in 2016 with one mission — to make international education transparent and achievable for Nepali students. Initially registered as "Encore Educational Consultancy", officially renamed in 2016 as "Yes Study Australia". Today, offices operate across Nepal, Australia, and the USA, serving over 1000+ students placed in leading universities.</p>
                 <a href="contact.php" class="btn btn-primary py-md-3 px-md-5 rounded-pill">Get Free Consultation</a>
             </div>
           <div class="col-lg-6">

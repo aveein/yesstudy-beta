@@ -148,7 +148,7 @@ include 'includes/header.php';
                                 <small class="text-uppercase me-3"><i class="bi bi-person me-2"></i>Admin</small>
                                 <small class="text-uppercase me-3"><i class="bi bi-bookmarks me-2"></i>About Us</small>
                             </div>
-                            <a class="h4" href="">Why Choose Yes Study? 1000+ Students Placed Since 2014</a>
+                            <a class="h4" href="">Why Choose Yes Study? 1000+ Students Placed Since 2016</a>
                         </div>
                     </div>
                 </div>
