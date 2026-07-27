@@ -34,6 +34,12 @@ a:focus {
     color: #000 !important;
 }
 
+.bg-primary .display-4,
+.text-white .display-4,
+.bg-primary h1.display-4 {
+    color: #fff !important;
+}
+
 h1,
 h2,
 .font-weight-bold {
