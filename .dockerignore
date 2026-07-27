@@ -1,0 +1,11 @@
+.git
+.gitignore
+.vscode
+Dockerfile
+docker-compose.yml
+node_modules
+*.log
+*.tmp
+*.swp
+Thumbs.db
+.DS_Store
